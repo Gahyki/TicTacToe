@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Gahyki\Documents\SpaceConcordia\IntroTask\IntroTask\IntroTask\Source.cpp(18,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Gahyki\Documents\SpaceConcordia\IntroTask\IntroTask\IntroTask\Source.cpp(55,20): warning C4018: '<': signed/unsigned mismatch
+  IntroTask.vcxproj -> C:\Users\Gahyki\Documents\SpaceConcordia\IntroTask\IntroTask\Debug\IntroTask.exe
